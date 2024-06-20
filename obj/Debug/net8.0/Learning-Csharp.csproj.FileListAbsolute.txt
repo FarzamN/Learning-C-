@@ -1,0 +1,15 @@
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\bin\Debug\net8.0\Learning-Csharp.exe
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\bin\Debug\net8.0\Learning-Csharp.deps.json
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\bin\Debug\net8.0\Learning-Csharp.runtimeconfig.json
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\bin\Debug\net8.0\Learning-Csharp.dll
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\bin\Debug\net8.0\Learning-Csharp.pdb
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\obj\Debug\net8.0\Learning-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\obj\Debug\net8.0\Learning-Csharp.AssemblyInfoInputs.cache
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\obj\Debug\net8.0\Learning-Csharp.AssemblyInfo.cs
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\obj\Debug\net8.0\Learning-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\obj\Debug\net8.0\Learning-Csharp.sourcelink.json
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\obj\Debug\net8.0\Learning-Csharp.dll
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\obj\Debug\net8.0\refint\Learning-Csharp.dll
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\obj\Debug\net8.0\Learning-Csharp.pdb
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\obj\Debug\net8.0\Learning-Csharp.genruntimeconfig.cache
+C:\Users\haroon trader\OneDrive\Documents\Farzam\Learning-Csharp\obj\Debug\net8.0\ref\Learning-Csharp.dll
